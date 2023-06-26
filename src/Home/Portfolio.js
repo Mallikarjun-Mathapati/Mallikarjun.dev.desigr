@@ -4,6 +4,8 @@ import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
 
 const Portfolio = () => {
+
+
   return (
     <>
       <Link className="a-portfolio" id="portfolio"></Link>
@@ -253,6 +255,52 @@ const Portfolio = () => {
                         </div>
                       </div>
                     </div>
+                    <br/>
+                    <br/>
+
+                    
+                    <div className="portfolio-project">
+                      <div className="portfolio-img">
+                        <img
+                          src={require("../Images/YouCanUse.png")}
+                          alt=""
+                        />
+                      </div>
+                      <div className="portfolio-content portfolio-content-dashboard portfolio-content-personal-website6">
+                      <h2>
+                          You<span className="portfolio-content-personal-website5-span1">Can</span><span id="portfolio-content-personal-website4-span2">Use</span>
+                        </h2>
+                        <p id="portfolio-content-personal-website6-p">
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; COMING
+                          SOON....... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        </p>
+                        <div className="using-soft">
+                          <p>Figma</p>
+                          <p>Adobe Illustrator</p>
+                        </div>
+                        <div className="using-link">
+                          <Link
+                            to="/"
+                            target="_blank"
+                          >
+                            {" "}
+                            Behance
+                            <i class="fa-brands fa-square-behance fa-bounce fa-xl"></i>
+                          </Link>
+
+                          <Link
+                            to="/"
+                            target="_blank"
+                          >
+                            {" "}
+                            Figma
+                            <i class="fa-brands fa-figma fa-bounce fa-xl"></i>
+                          </Link>
+                        </div>
+                      </div>
+                    </div>
                   </Tab>
 
                   {/* tab 2 */}
@@ -289,8 +337,8 @@ const Portfolio = () => {
                           </div>
                         </div>
                         <div className="using-link">
-                          <Link
-                            to="https://github.com/Mallu0007"
+                          <Link 
+                            to="/"
                             target="_blank"
                           >
                             {" "}
@@ -337,7 +385,7 @@ const Portfolio = () => {
                         </div>
                         <div className="using-link">
                           <Link
-                            to="https://github.com/Mallu0007"
+                            to="https://github.com/Mallikarjun-Mathapati/Reantal-Cars-Website.git"
                             target="_blank"
                           >
                             {" "}
@@ -345,7 +393,7 @@ const Portfolio = () => {
                             <i class="fa-brands fa-github fa-bounce fa-xl"></i>
                           </Link>
 
-                          <Link to="/" target="_blank">
+                          <Link to="https://mallikarjun-mathapati.github.io/Reantal-Cars-Website/" target="_blank">
                             {" "}
                             Live
                             <i class="fa-solid fa-eye fa-bounce fa-xl"></i>
@@ -388,7 +436,7 @@ const Portfolio = () => {
                         </div>
                         <div className="using-link">
                           <Link
-                            to="https://github.com/Mallu0007"
+                            to="https://github.com/Mallikarjun-Mathapati/Mallikarjun.dev.desigr.git"
                             target="_blank"
                           >
                             {" "}
@@ -397,7 +445,7 @@ const Portfolio = () => {
                           </Link>
 
                           <Link
-                            to="https://mallu0007.github.io/Mallikarjun/"
+                            to="https://mallikarjun-mathapati.github.io/Mallikarjun.dev.desigr/"
                             target="_blank"
                           >
                             {" "}
@@ -450,7 +498,7 @@ const Portfolio = () => {
                         </div>
                         <div className="using-link">
                           <Link
-                            to="https://github.com/Mallu0007"
+                            to="https://github.com/Mallikarjun-Mathapati/E-commerce-Dans.git"
                             target="_blank"
                           >
                             {" "}
@@ -459,7 +507,7 @@ const Portfolio = () => {
                           </Link>
 
                           <Link
-                            to="https://mallu0007.github.io/Dans-Shopping/"
+                            to="https://mallikarjun-mathapati.github.io/E-commerce-Dans/"
                             target="_blank"
                           >
                             {" "}
@@ -509,7 +557,7 @@ const Portfolio = () => {
                         </div>
                         <div className="using-link">
                           <Link
-                            to="https://github.com/Mallu0007"
+                            to="https://github.com/Mallikarjun-Mathapati/Mallikarjun.first.git"
                             target="_blank"
                           >
                             {" "}
@@ -518,7 +566,7 @@ const Portfolio = () => {
                           </Link>
 
                           <Link
-                            to="https://mallu0007.github.io/Mallikarjun/"
+                            to="https://mallikarjun-mathapati.github.io/Mallikarjun.first/"
                             target="_blank"
                           >
                             {" "}

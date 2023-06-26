@@ -594,6 +594,12 @@ html {
 .portfolio-content-personal-website5 p {
   padding: 3.5rem 0;
 }
+.portfolio-content-personal-website6 h2 {
+  color: #249A41;
+}
+#portfolio-content-personal-website6-p {
+  padding: 3.5rem 0;
+}
 /* Contact CSS */
 
 .contact {
