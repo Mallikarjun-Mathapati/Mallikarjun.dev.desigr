@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mallikarjun.dev.desigr/static/css/main.869745ba.css",
-    "main.js": "/Mallikarjun.dev.desigr/static/js/main.9e85d124.js",
+    "main.css": "/Mallikarjun.dev.desigr/static/css/main.bb59ff06.css",
+    "main.js": "/Mallikarjun.dev.desigr/static/js/main.6ab5e47e.js",
     "static/js/787.12ed500a.chunk.js": "/Mallikarjun.dev.desigr/static/js/787.12ed500a.chunk.js",
     "static/media/UTT BG.png": "/Mallikarjun.dev.desigr/static/media/UTT BG.fb307c8cffec5eeb62da.png",
     "static/media/Rental cars bg.png": "/Mallikarjun.dev.desigr/static/media/Rental cars bg.3217e1c6bac13c84dba7.png",
@@ -26,12 +26,12 @@
     "static/media/Figama.png": "/Mallikarjun.dev.desigr/static/media/Figama.66b39d0001393c7f58f6.png",
     "static/media/adobe illu.png": "/Mallikarjun.dev.desigr/static/media/adobe illu.cf365156a35d191c4521.png",
     "index.html": "/Mallikarjun.dev.desigr/index.html",
-    "main.869745ba.css.map": "/Mallikarjun.dev.desigr/static/css/main.869745ba.css.map",
-    "main.9e85d124.js.map": "/Mallikarjun.dev.desigr/static/js/main.9e85d124.js.map",
+    "main.bb59ff06.css.map": "/Mallikarjun.dev.desigr/static/css/main.bb59ff06.css.map",
+    "main.6ab5e47e.js.map": "/Mallikarjun.dev.desigr/static/js/main.6ab5e47e.js.map",
     "787.12ed500a.chunk.js.map": "/Mallikarjun.dev.desigr/static/js/787.12ed500a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.869745ba.css",
-    "static/js/main.9e85d124.js"
+    "static/css/main.bb59ff06.css",
+    "static/js/main.6ab5e47e.js"
   ]
 }
