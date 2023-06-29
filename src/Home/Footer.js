@@ -22,7 +22,7 @@ const Footer = () => {
               aria-label="github"
               rel="noreferrer"
               target="_blank"
-              to="https://github.com/Mallu0007"
+              to="https://github.com/Mallikarjun-Mathapati"
             >
               <i className="fa-brands fa-github fa-xl"></i>
             </Link>
