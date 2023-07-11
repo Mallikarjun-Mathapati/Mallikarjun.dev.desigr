@@ -615,17 +615,20 @@ html {
 .portfolio-content-personal-website5-span1 {
   color: #F6AD01;
 }
+#portfolio-content-personal-website5-span02 {
+  color: #249A41;
+}
 #portfolio-content-personal-website4-span2 {
   color: #E93821;
 }
 .portfolio-content-personal-website5 p {
-  padding: 3.5rem 0;
+  padding: 0rem 0;
 }
 .portfolio-content-personal-website6 h2 {
   color: #249A41;
 }
 #portfolio-content-personal-website6-p {
-  padding: 3.5rem 0;
+  padding: 0rem 0;
 }
 /* Contact CSS */
 

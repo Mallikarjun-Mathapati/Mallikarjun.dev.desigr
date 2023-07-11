@@ -271,10 +271,7 @@ const Portfolio = () => {
                           You<span className="portfolio-content-personal-website5-span1">Can</span><span id="portfolio-content-personal-website4-span2">Use</span>
                         </h2>
                         <p id="portfolio-content-personal-website6-p">
-                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; COMING
-                          SOON....... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        At     <span id="portfolio-content-personal-website5-span02">You</span><span className="portfolio-content-personal-website5-span1">Can</span><span id="portfolio-content-personal-website4-span2">Use</span>, we are excited to showcase a collection of my little projects that reflect my passion for front-end development and UX design. This website serves as a hub for my creative endeavors and allows me to share my work with the world.
                         </p>
                         <div className="using-soft">
                           <p>Figma</p>
@@ -282,7 +279,7 @@ const Portfolio = () => {
                         </div>
                         <div className="using-link">
                           <Link
-                            to="/"
+                            to="https://www.behance.net/mallu007"
                             target="_blank"
                           >
                             {" "}
@@ -291,7 +288,7 @@ const Portfolio = () => {
                           </Link>
 
                           <Link
-                            to="/"
+                            to="https://www.figma.com/file/UNaHA8EcZSIEG4LfyaOCst/Untitled?type=design&node-id=0%3A1&mode=design&t=8Mm9RHCscGspwjoM-1"
                             target="_blank"
                           >
                             {" "}
@@ -318,10 +315,11 @@ const Portfolio = () => {
                           You<span className="portfolio-content-personal-website5-span1">Can</span><span id="portfolio-content-personal-website4-span2">Use</span>
                         </h2>
                         <p>
-                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        At     <span id="portfolio-content-personal-website5-span02">You</span><span className="portfolio-content-personal-website5-span1">Can</span><span id="portfolio-content-personal-website4-span2">Use</span>, we are excited to showcase a collection of my little projects that reflect my passion for front-end development and UX design. This website serves as a hub for my creative endeavors and allows me to share my work with the world.
+                          {/* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; COMING
                           SOON....... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; */}
                         </p>
                         {/* <p>COMING SOON.......</p> */}
                         <div className="using-soft">
@@ -338,7 +336,7 @@ const Portfolio = () => {
                         </div>
                         <div className="using-link">
                           <Link 
-                            to="/"
+                            to="https://github.com/Mallikarjun-Mathapati/YouCanUse.git"
                             target="_blank"
                           >
                             {" "}
@@ -346,7 +344,7 @@ const Portfolio = () => {
                             <i class="fa-brands fa-github fa-bounce fa-xl"></i>
                           </Link>
 
-                          <Link to="/" target="_blank">
+                          <Link to="https://mallikarjun-mathapati.github.io/YouCanUse/" target="_blank">
                             {" "}
                             Live
                             <i class="fa-solid fa-eye fa-bounce fa-xl"></i>
