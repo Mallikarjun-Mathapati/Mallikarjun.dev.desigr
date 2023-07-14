@@ -41,7 +41,7 @@ const Portfolio = () => {
                           <span>BOOK</span>MART APP
                         </h2>
                         <p>
-                          <span>Book</span>mat is a platform where you can buy
+                          <span>Book</span>mart is a platform where you can buy
                           all Educational accessories in one place and it is
                           very easy to use. It offers wide spectrum of products
                           and competetive pricing. Bookmart app targets people

@@ -12,7 +12,7 @@ const AboutMe = () => {
             <hr />
             <h2>
               A dedicated Front-end Developer and UX designer based in Karnataka
-              Bengalure 📍
+              Bengaluru 📍
             </h2>
             <p>
               As a Front End React Developer and UX Designer, I possess the
