@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mallikarjun.dev.desigr/static/css/main.f426a9ee.css",
-    "main.js": "/Mallikarjun.dev.desigr/static/js/main.bf570ff6.js",
+    "main.css": "/Mallikarjun.dev.desigr/static/css/main.6acea3ce.css",
+    "main.js": "/Mallikarjun.dev.desigr/static/js/main.838cff79.js",
     "static/js/787.12ed500a.chunk.js": "/Mallikarjun.dev.desigr/static/js/787.12ed500a.chunk.js",
     "static/media/UTT BG.png": "/Mallikarjun.dev.desigr/static/media/UTT BG.fb307c8cffec5eeb62da.png",
     "static/media/Rental cars bg.png": "/Mallikarjun.dev.desigr/static/media/Rental cars bg.3217e1c6bac13c84dba7.png",
@@ -9,6 +9,8 @@
     "static/media/hero3.jpg": "/Mallikarjun.dev.desigr/static/media/hero3.e8dc2d9b5e6b81083e3c.jpg",
     "static/media/Personal website new bg.png": "/Mallikarjun.dev.desigr/static/media/Personal website new bg.9153dc3dd92a49159030.png",
     "static/media/personal website bg.png": "/Mallikarjun.dev.desigr/static/media/personal website bg.a19a7719f5221aab147c.png",
+    "static/media/Electronic pro.jpg": "/Mallikarjun.dev.desigr/static/media/Electronic pro.6b96210c1db6f9850db2.jpg",
+    "static/media/Mallikajun Mathapati.pdf": "/Mallikarjun.dev.desigr/static/media/Mallikajun Mathapati.0878046692506ac92d60.pdf",
     "static/media/Royalx website bg.png": "/Mallikarjun.dev.desigr/static/media/Royalx website bg.60b6796795b40369acf1.png",
     "static/media/Dons Website bg.png": "/Mallikarjun.dev.desigr/static/media/Dons Website bg.786247ad2b9cabebccde.png",
     "static/media/Shoptop Website bg.png": "/Mallikarjun.dev.desigr/static/media/Shoptop Website bg.38cf3ad2bc8b6dace336.png",
@@ -26,12 +28,12 @@
     "static/media/Figama.png": "/Mallikarjun.dev.desigr/static/media/Figama.66b39d0001393c7f58f6.png",
     "static/media/adobe illu.png": "/Mallikarjun.dev.desigr/static/media/adobe illu.cf365156a35d191c4521.png",
     "index.html": "/Mallikarjun.dev.desigr/index.html",
-    "main.f426a9ee.css.map": "/Mallikarjun.dev.desigr/static/css/main.f426a9ee.css.map",
-    "main.bf570ff6.js.map": "/Mallikarjun.dev.desigr/static/js/main.bf570ff6.js.map",
+    "main.6acea3ce.css.map": "/Mallikarjun.dev.desigr/static/css/main.6acea3ce.css.map",
+    "main.838cff79.js.map": "/Mallikarjun.dev.desigr/static/js/main.838cff79.js.map",
     "787.12ed500a.chunk.js.map": "/Mallikarjun.dev.desigr/static/js/787.12ed500a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f426a9ee.css",
-    "static/js/main.bf570ff6.js"
+    "static/css/main.6acea3ce.css",
+    "static/js/main.838cff79.js"
   ]
 }
