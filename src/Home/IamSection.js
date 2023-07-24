@@ -23,7 +23,10 @@ function IamSection() {
                     target="_blank"
                     to="https://www.linkedin.com/in/mallikarjun-mathapati-6277a0215"
                   >
-                    <i className="fa-brands fa-linkedin"></i>
+                    {" "}
+                    <abbr title="LinkedIn">
+                      <i className="fa-brands fa-linkedin"></i>
+                    </abbr>
                   </Link>
                   <Link
                     aria-label="github"
@@ -31,7 +34,10 @@ function IamSection() {
                     target="_blank"
                     to="https://github.com/Mallikarjun-Mathapati"
                   >
-                    <i className="fa-brands fa-github"></i>
+                    {" "}
+                    <abbr title="GitHub">
+                      <i className="fa-brands fa-github"></i>
+                    </abbr>
                   </Link>
                   <Link
                     aria-label="Behance"
@@ -39,8 +45,21 @@ function IamSection() {
                     target="_blank"
                     to="https://www.behance.net/mallu007"
                   >
-                    <i className="fa-brands fa-behance"></i>
+                    {" "}
+                    <abbr title="Behance">
+                      <i className="fa-brands fa-behance"></i>
+                    </abbr>
                   </Link>
+                  <a
+                    href={require("../Resume/Mallikajun Mathapati.pdf")}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    {" "}
+                    <abbr title="Resume">
+                      <i class="fa-solid fa-file fa-xs"></i>
+                    </abbr>
+                  </a>
                 </span>
               </div>
             </div>

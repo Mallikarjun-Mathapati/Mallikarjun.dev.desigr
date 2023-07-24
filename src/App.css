@@ -166,6 +166,7 @@ html {
 .hero-text span a {
   color: #2d2e32;
   font-size: 3rem;
+  padding-left: 1rem;
 }
 @media (max-width: 900px) {
   .hero-text span {
@@ -296,7 +297,7 @@ html {
   display: flex;
 }
 @media (max-width: 800px) {
-   .tech-img-main {
+  .tech-img-main {
     text-align: center;
   }
 }
@@ -610,25 +611,31 @@ html {
   padding: 1rem 0;
 }
 .portfolio-content-personal-website5 h2 {
-  color: #249A41;
+  color: #249a41;
 }
 .portfolio-content-personal-website5-span1 {
-  color: #F6AD01;
+  color: #f6ad01;
 }
 #portfolio-content-personal-website5-span02 {
-  color: #249A41;
+  color: #249a41;
 }
 #portfolio-content-personal-website4-span2 {
-  color: #E93821;
+  color: #e93821;
 }
 .portfolio-content-personal-website5 p {
   padding: 0rem 0;
 }
 .portfolio-content-personal-website6 h2 {
-  color: #249A41;
+  color: #249a41;
 }
 #portfolio-content-personal-website6-p {
   padding: 0rem 0;
+}
+.portfolio-content-personal-website8 h2 span {
+  color: #eb0089;
+}
+.portfolio-content-personal-website8 p {
+  padding: 2.6rem 0;
 }
 /* Contact CSS */
 

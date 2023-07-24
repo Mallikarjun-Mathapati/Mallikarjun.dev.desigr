@@ -4,8 +4,6 @@ import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
 
 const Portfolio = () => {
-
-
   return (
     <>
       <Link className="a-portfolio" id="portfolio"></Link>
@@ -255,23 +253,39 @@ const Portfolio = () => {
                         </div>
                       </div>
                     </div>
-                    <br/>
-                    <br/>
+                    <br />
+                    <br />
 
-                    
                     <div className="portfolio-project">
                       <div className="portfolio-img">
-                        <img
-                          src={require("../Images/YouCanUse.png")}
-                          alt=""
-                        />
+                        <img src={require("../Images/YouCanUse.png")} alt="" />
                       </div>
                       <div className="portfolio-content portfolio-content-dashboard portfolio-content-personal-website6">
-                      <h2>
-                          You<span className="portfolio-content-personal-website5-span1">Can</span><span id="portfolio-content-personal-website4-span2">Use</span>
+                        <h2>
+                          You
+                          <span className="portfolio-content-personal-website5-span1">
+                            Can
+                          </span>
+                          <span id="portfolio-content-personal-website4-span2">
+                            Use
+                          </span>
                         </h2>
                         <p id="portfolio-content-personal-website6-p">
-                        At     <span id="portfolio-content-personal-website5-span02">You</span><span className="portfolio-content-personal-website5-span1">Can</span><span id="portfolio-content-personal-website4-span2">Use</span>, we are excited to showcase a collection of my little projects that reflect my passion for front-end development and UX design. This website serves as a hub for my creative endeavors and allows me to share my work with the world.
+                          At{" "}
+                          <span id="portfolio-content-personal-website5-span02">
+                            You
+                          </span>
+                          <span className="portfolio-content-personal-website5-span1">
+                            Can
+                          </span>
+                          <span id="portfolio-content-personal-website4-span2">
+                            Use
+                          </span>
+                          , we are excited to showcase a collection of my little
+                          projects that reflect my passion for front-end
+                          development and UX design. This website serves as a
+                          hub for my creative endeavors and allows me to share
+                          my work with the world.
                         </p>
                         <div className="using-soft">
                           <p>Figma</p>
@@ -306,16 +320,87 @@ const Portfolio = () => {
                     <div className="portfolio-project">
                       <div className="portfolio-img">
                         <img
-                          src={require("../Images/YouCanUse.png")}
+                          src={require("../Images/Electronic pro.jpg")}
                           alt=""
                         />
                       </div>
-                      <div className="portfolio-content portfolio-content-personal-website5">
+                      <div className="portfolio-content portfolio-content-personal-website8">
                         <h2>
-                          You<span className="portfolio-content-personal-website5-span1">Can</span><span id="portfolio-content-personal-website4-span2">Use</span>
+                          Electronic.<span>Shop</span>
                         </h2>
                         <p>
-                        At     <span id="portfolio-content-personal-website5-span02">You</span><span className="portfolio-content-personal-website5-span1">Can</span><span id="portfolio-content-personal-website4-span2">Use</span>, we are excited to showcase a collection of my little projects that reflect my passion for front-end development and UX design. This website serves as a hub for my creative endeavors and allows me to share my work with the world.
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; STILL
+                          WORKING...............🙂👇 &nbsp; &nbsp; &nbsp; &nbsp;
+                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        </p>
+                        {/* <p>COMING SOON.......</p> */}
+                        <div className="using-soft">
+                          <div className="tech img1 portfolio-softwere">
+                            <img
+                              src={require("../Images/Logos/ReactJS.png")}
+                              alt=""
+                            />
+                            <img
+                              src={require("../Images/Logos/Figama.png")}
+                              alt=""
+                            />
+                          </div>
+                        </div>
+                        <div className="using-link">
+                          <Link
+                            to="https://github.com/Mallikarjun-Mathapati/Electronic-Shop.git"
+                            target="_blank"
+                          >
+                            {" "}
+                            Code
+                            <i class="fa-brands fa-github fa-bounce fa-xl"></i>
+                          </Link>
+
+                          <Link
+                            to="https://mallikarjun-mathapati.github.io/Electronic-Shop/"
+                            target="_blank"
+                          >
+                            {" "}
+                            Live
+                            <i class="fa-solid fa-eye fa-bounce fa-xl"></i>
+                          </Link>
+                        </div>
+                      </div>
+                    </div>
+                    <br />
+                    <br />
+
+                    <div className="portfolio-project">
+                      <div className="portfolio-img">
+                        <img src={require("../Images/YouCanUse.png")} alt="" />
+                      </div>
+                      <div className="portfolio-content portfolio-content-personal-website5">
+                        <h2>
+                          You
+                          <span className="portfolio-content-personal-website5-span1">
+                            Can
+                          </span>
+                          <span id="portfolio-content-personal-website4-span2">
+                            Use
+                          </span>
+                        </h2>
+                        <p>
+                          At{" "}
+                          <span id="portfolio-content-personal-website5-span02">
+                            You
+                          </span>
+                          <span className="portfolio-content-personal-website5-span1">
+                            Can
+                          </span>
+                          <span id="portfolio-content-personal-website4-span2">
+                            Use
+                          </span>
+                          , we are excited to showcase a collection of my little
+                          projects that reflect my passion for front-end
+                          development and UX design. This website serves as a
+                          hub for my creative endeavors and allows me to share
+                          my work with the world.
                           {/* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; COMING
                           SOON....... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -335,7 +420,7 @@ const Portfolio = () => {
                           </div>
                         </div>
                         <div className="using-link">
-                          <Link 
+                          <Link
                             to="https://github.com/Mallikarjun-Mathapati/YouCanUse.git"
                             target="_blank"
                           >
@@ -344,7 +429,10 @@ const Portfolio = () => {
                             <i class="fa-brands fa-github fa-bounce fa-xl"></i>
                           </Link>
 
-                          <Link to="https://mallikarjun-mathapati.github.io/YouCanUse/" target="_blank">
+                          <Link
+                            to="https://mallikarjun-mathapati.github.io/YouCanUse/"
+                            target="_blank"
+                          >
                             {" "}
                             Live
                             <i class="fa-solid fa-eye fa-bounce fa-xl"></i>
@@ -366,7 +454,10 @@ const Portfolio = () => {
                           RENTAL<span>CARS</span>
                         </h2>
                         <p>
-                            A Rental <span>car</span> website is an online platform that allows users to rent cars for personal or business use. The website provides an interface for searching, comparing, and reserving cars.
+                          A Rental <span>car</span> website is an online
+                          platform that allows users to rent cars for personal
+                          or business use. The website provides an interface for
+                          searching, comparing, and reserving cars.
                         </p>
                         {/* <p>COMING SOON.......</p> */}
                         <div className="using-soft">
@@ -391,7 +482,10 @@ const Portfolio = () => {
                             <i class="fa-brands fa-github fa-bounce fa-xl"></i>
                           </Link>
 
-                          <Link to="https://mallikarjun-mathapati.github.io/Reantal-Cars-Website/" target="_blank">
+                          <Link
+                            to="https://mallikarjun-mathapati.github.io/Reantal-Cars-Website/"
+                            target="_blank"
+                          >
                             {" "}
                             Live
                             <i class="fa-solid fa-eye fa-bounce fa-xl"></i>
