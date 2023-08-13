@@ -329,10 +329,12 @@ const Portfolio = () => {
                           Electronic.<span>Shop</span>
                         </h2>
                         <p>
-                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; STILL
-                          WORKING...............🙂👇 &nbsp; &nbsp; &nbsp; &nbsp;
-                          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                          Welcome to our Electron <span>Shop</span> website,
+                          where you'll find an extensive collection of branded
+                          and good-quality products.We take pride in offering a
+                          curated selection of items that meet the highest
+                          standards of craftsmanship, reliability, and customer
+                          satisfaction...
                         </p>
                         {/* <p>COMING SOON.......</p> */}
                         <div className="using-soft">
