@@ -51,7 +51,7 @@ function IamSection() {
                     </abbr>
                   </Link>
                   <a
-                    href={require("../Resume/Mallikajun Mathapati.pdf")}
+                    href={require("../Resume/Mallikarjun Mathapati.pdf")}
                     target="_blank"
                     rel="noreferrer"
                   >
